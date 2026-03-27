@@ -1,4 +1,5 @@
-import { useState, CSSProperties, ReactNode } from "react";
+import { useState } from "react";
+import type { CSSProperties, ReactNode } from "react";
 
 const NAVY = "#1B3A6B";
 const GOLD = "#C8922A";
